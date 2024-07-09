@@ -1,12 +1,13 @@
 # JAIST-I239
 ## Machine Learning 1-2 2024
+This is the report for Machine Learning i239 course in JAIST.
 
 In this report, we will discuss the following fundamental machine learning algorithms:
 1. SVM Support Vector Machine
 2. Decision Tree
 3. Naive Bayes
 
-## Datastes
+## Datasets
 - Iris (only choose 2 features)
 - Wine (only choose 2 features)
 
@@ -26,8 +27,11 @@ In this report, we will discuss the following fundamental machine learning algor
 | Wine      |  0.5833  |    0.5880 | 0.5833 |   0.5829 |
 
 The boundary of the iris by SVM algorithm is shown in the following figure:
+
 ![svm_boundary_iris.png](Results%2Fsvm_boundary_iris.png)
+
 The boundary of the wine by SVM algorithm is shown in the following figure:
+
 ![svm_boundary_wine.png](Results%2Fsvm_boundary_wine.png)
 
 The confusion matrix is shown in the `Results` folder.
@@ -44,8 +48,11 @@ The confusion matrix is shown in the `Results` folder.
 | Wine      |  0.6111  |    0.6310 | 0.6111 |   0.6159 |
 
 The decision tree of the iris is shown in the following figure:
+
 [Decision Tree Visualization of Iris by Decision Tree.pdf](Results%2FDecision%20Tree%20Visualization%20of%20Iris%20by%20Decision%20Tree.pdf)
+
 The decision tree of the wine is shown in the following figure:
+
 [Decision Tree Visualization of Wine by Decision Tree.pdf](Results%2FDecision%20Tree%20Visualization%20of%20Wine%20by%20Decision%20Tree.pdf)
 
 The confusion matrix is shown in the `Results` folder.
